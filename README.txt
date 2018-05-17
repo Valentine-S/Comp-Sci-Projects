@@ -1,5 +1,4 @@
 Here I Included some projects I have done in my Computer Science classes in school. These Classes include AP Computer Science A, and C#. 
-I have included Winrar packages of the projects as well as a version in NotePad that is easier to read without any programs.
 C# projects made in Microsoft Visual Studio.
 Java projects made in Bluejay.
 
