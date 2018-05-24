@@ -73,3 +73,22 @@ E:\Visual Studio Projects\Valentine\Valentine\TriviaGame\TriviaGame\obj\Debug\Tr
 E:\Visual Studio Projects\Valentine\Valentine\TriviaGame\TriviaGame\obj\Debug\TriviaGame.Properties.Resources.resources
 E:\Visual Studio Projects\Valentine\Valentine\TriviaGame\TriviaGame\obj\Debug\TriviaGame.csproj.GenerateResource.Cache
 F:\Visual Studio Projects\Valentine\Valentine\TriviaGame\TriviaGame\obj\Debug\TriviaGame.Form11.resources
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\bin\Debug\TriviaGame.exe.config
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\bin\Debug\TriviaGame.exe
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\bin\Debug\TriviaGame.pdb
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\obj\Debug\TriviaGame.csprojResolveAssemblyReference.cache
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\obj\Debug\TriviaGame.Form1.resources
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\obj\Debug\TriviaGame.Form10.resources
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\obj\Debug\TriviaGame.Form11.resources
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\obj\Debug\TriviaGame.Form2.resources
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\obj\Debug\TriviaGame.Form3.resources
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\obj\Debug\TriviaGame.Form4.resources
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\obj\Debug\TriviaGame.Form5.resources
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\obj\Debug\TriviaGame.Form6.resources
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\obj\Debug\TriviaGame.Form7.resources
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\obj\Debug\TriviaGame.Form8.resources
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\obj\Debug\TriviaGame.Form9.resources
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\obj\Debug\TriviaGame.Properties.Resources.resources
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\obj\Debug\TriviaGame.csproj.GenerateResource.Cache
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\obj\Debug\TriviaGame.exe
+C:\Users\Valentine\Downloads\TriviaGame\TriviaGame\obj\Debug\TriviaGame.pdb

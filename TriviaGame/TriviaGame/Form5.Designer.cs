@@ -150,6 +150,7 @@
             this.button1.TabIndex = 59;
             this.button1.Text = "Enter Answer";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // numericUpDown1
             // 
@@ -272,9 +273,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(212, 5);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(84, 13);
+            this.label1.Size = new System.Drawing.Size(93, 13);
             this.label1.TabIndex = 46;
-            this.label1.Text = "Computer Trivia!";
+            this.label1.Text = "AutoMotive Trivia!";
             // 
             // Form5
             // 
