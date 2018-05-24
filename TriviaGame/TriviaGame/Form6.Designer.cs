@@ -86,7 +86,7 @@
             // Choice4Label
             // 
             this.Choice4Label.AutoSize = true;
-            this.Choice4Label.Location = new System.Drawing.Point(17, 324);
+            this.Choice4Label.Location = new System.Drawing.Point(38, 336);
             this.Choice4Label.Name = "Choice4Label";
             this.Choice4Label.Size = new System.Drawing.Size(41, 13);
             this.Choice4Label.TabIndex = 42;
@@ -95,7 +95,7 @@
             // Choice3Label
             // 
             this.Choice3Label.AutoSize = true;
-            this.Choice3Label.Location = new System.Drawing.Point(17, 299);
+            this.Choice3Label.Location = new System.Drawing.Point(38, 306);
             this.Choice3Label.Name = "Choice3Label";
             this.Choice3Label.Size = new System.Drawing.Size(35, 13);
             this.Choice3Label.TabIndex = 41;
@@ -104,7 +104,7 @@
             // Choice2Label
             // 
             this.Choice2Label.AutoSize = true;
-            this.Choice2Label.Location = new System.Drawing.Point(17, 260);
+            this.Choice2Label.Location = new System.Drawing.Point(38, 276);
             this.Choice2Label.Name = "Choice2Label";
             this.Choice2Label.Size = new System.Drawing.Size(35, 13);
             this.Choice2Label.TabIndex = 40;
@@ -113,7 +113,7 @@
             // Choice1Label
             // 
             this.Choice1Label.AutoSize = true;
-            this.Choice1Label.Location = new System.Drawing.Point(17, 238);
+            this.Choice1Label.Location = new System.Drawing.Point(38, 246);
             this.Choice1Label.Name = "Choice1Label";
             this.Choice1Label.Size = new System.Drawing.Size(35, 13);
             this.Choice1Label.TabIndex = 39;

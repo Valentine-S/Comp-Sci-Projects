@@ -51,55 +51,60 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(227, 9);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(226, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(142, 29);
+            this.label1.Size = new System.Drawing.Size(175, 33);
             this.label1.TabIndex = 1;
             this.label1.Text = "Game Over!";
             // 
             // Player1
             // 
             this.Player1.AutoSize = true;
-            this.Player1.Location = new System.Drawing.Point(229, 99);
+            this.Player1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Player1.Location = new System.Drawing.Point(212, 110);
             this.Player1.Name = "Player1";
-            this.Player1.Size = new System.Drawing.Size(35, 13);
+            this.Player1.Size = new System.Drawing.Size(70, 25);
             this.Player1.TabIndex = 2;
             this.Player1.Text = "label2";
             // 
             // S1
             // 
             this.S1.AutoSize = true;
-            this.S1.Location = new System.Drawing.Point(334, 99);
+            this.S1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.S1.Location = new System.Drawing.Point(317, 110);
             this.S1.Name = "S1";
-            this.S1.Size = new System.Drawing.Size(35, 13);
+            this.S1.Size = new System.Drawing.Size(70, 25);
             this.S1.TabIndex = 3;
             this.S1.Text = "label3";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(277, 52);
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(230, 58);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(63, 13);
+            this.label4.Size = new System.Drawing.Size(142, 29);
             this.label4.TabIndex = 4;
             this.label4.Text = "Final Score:";
             // 
             // Player2
             // 
             this.Player2.AutoSize = true;
-            this.Player2.Location = new System.Drawing.Point(229, 151);
+            this.Player2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Player2.Location = new System.Drawing.Point(212, 165);
             this.Player2.Name = "Player2";
-            this.Player2.Size = new System.Drawing.Size(35, 13);
+            this.Player2.Size = new System.Drawing.Size(70, 25);
             this.Player2.TabIndex = 5;
             this.Player2.Text = "label5";
             // 
             // S2
             // 
             this.S2.AutoSize = true;
-            this.S2.Location = new System.Drawing.Point(334, 151);
+            this.S2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.S2.Location = new System.Drawing.Point(317, 165);
             this.S2.Name = "S2";
-            this.S2.Size = new System.Drawing.Size(35, 13);
+            this.S2.Size = new System.Drawing.Size(70, 25);
             this.S2.TabIndex = 6;
             this.S2.Text = "label6";
             // 

@@ -102,7 +102,7 @@ namespace TriviaGame
 
                 case 5:
                     QuestionLabel.Text = ("What NFL player returned a fumble 66 yards--to the wrong end zone?");
-                    Choice1Label.Text = ("Deion Sanders");//Correct answer
+                    Choice1Label.Text = ("Deion Sanders");
                     Choice2Label.Text = ("Deltha O'Neal");
                     Choice3Label.Text = ("Leon Lett");
                     Choice4Label.Text = ("Jim Marshall");//Correct answer

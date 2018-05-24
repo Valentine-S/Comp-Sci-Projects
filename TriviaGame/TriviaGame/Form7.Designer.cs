@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.label15 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
@@ -52,9 +53,13 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
+            // 
+            // timer1
+            // 
+            this.timer1.Interval = 1000;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // label15
             // 
@@ -86,7 +91,7 @@
             // Choice4Label
             // 
             this.Choice4Label.AutoSize = true;
-            this.Choice4Label.Location = new System.Drawing.Point(17, 324);
+            this.Choice4Label.Location = new System.Drawing.Point(38, 336);
             this.Choice4Label.Name = "Choice4Label";
             this.Choice4Label.Size = new System.Drawing.Size(41, 13);
             this.Choice4Label.TabIndex = 65;
@@ -95,7 +100,7 @@
             // Choice3Label
             // 
             this.Choice3Label.AutoSize = true;
-            this.Choice3Label.Location = new System.Drawing.Point(17, 299);
+            this.Choice3Label.Location = new System.Drawing.Point(38, 306);
             this.Choice3Label.Name = "Choice3Label";
             this.Choice3Label.Size = new System.Drawing.Size(35, 13);
             this.Choice3Label.TabIndex = 64;
@@ -104,7 +109,7 @@
             // Choice2Label
             // 
             this.Choice2Label.AutoSize = true;
-            this.Choice2Label.Location = new System.Drawing.Point(17, 260);
+            this.Choice2Label.Location = new System.Drawing.Point(38, 276);
             this.Choice2Label.Name = "Choice2Label";
             this.Choice2Label.Size = new System.Drawing.Size(35, 13);
             this.Choice2Label.TabIndex = 63;
@@ -113,7 +118,7 @@
             // Choice1Label
             // 
             this.Choice1Label.AutoSize = true;
-            this.Choice1Label.Location = new System.Drawing.Point(17, 238);
+            this.Choice1Label.Location = new System.Drawing.Point(38, 246);
             this.Choice1Label.Name = "Choice1Label";
             this.Choice1Label.Size = new System.Drawing.Size(35, 13);
             this.Choice1Label.TabIndex = 62;
@@ -145,7 +150,6 @@
             this.button1.TabIndex = 59;
             this.button1.Text = "Enter Answer";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // numericUpDown1
             // 
@@ -268,14 +272,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(212, 5);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(71, 13);
+            this.label1.Size = new System.Drawing.Size(84, 13);
             this.label1.TabIndex = 46;
-            this.label1.Text = "Military Trivia!";
-            // 
-            // timer1
-            // 
-            this.timer1.Interval = 1000;
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            this.label1.Text = "Computer Trivia!";
             // 
             // Form7
             // 
@@ -316,6 +315,7 @@
 
         #endregion
 
+        private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label label13;
@@ -339,6 +339,5 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Timer timer1;
     }
 }
